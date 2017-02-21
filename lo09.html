@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=windows-1252">
+ <!--#include virtual="/css-scroll.txt"-->
+  <style>UNKNOWN {FONT-FAMILY: verdana,helvetica,sans-serif}
+  </style>
+
+  <title>An Ensemble of Three Classifiers for KDD Cup 2009:
+Expanded Linear Model, Heterogeneous Boosting, and Selective
+Na¨ýve Bayes</title>
+</head>
+  <body>
+
+<div id="content"> <h2>An Ensemble of Three Classifiers for KDD
+Cup 2009: Expanded Linear Model, Heterogeneous Boosting, and
+Selective Naive Bayes</h2>
+
+<p><i><b> Hung-Yi Lo, Kai-Wei Chang, Shang-Tse Chen,
+Tsung-Hsien Chiang, Chun- Sung Ferng, Cho-Jui Hsieh, Yi-Kuang
+Ko, Tsung-Ting Kuo, Hung-Che Lai, Ken-Yi Lin, Chia-Hsuan Wang,
+Hsiang-Fu Yu, Chih-Jen Lin, Hsuan-Tien Lin and Shou-de Lin
+</b></i>; JMLR W & CP 7:57-64, 2009.<i><b> </b></i></p>
+
+<h3>Abstract</h3> This paper describes our ensemble of three
+classifiers for the KDD Cup 2009 challenge. First, we transform
+the three binary classification tasks into a joint multi-class
+classification problem, and solve an l1-regularized maximum
+entropy model under the LIBLINEAR framework. Second, we propose
+a heterogeneous base learner, which is capable of handling
+different types of features and missing values, and use
+AdaBoost to improve the base learner. Finally, we adopt a
+selective na&iuml;ve Bayes classifier that automatically groups
+categorical features and discretizes numerical ones. The
+parameters are tuned using crossvalidation results rather than
+the 10% test results on the competition website. Based on the
+observation that the three positive labels are exclusive, we
+conduct a post-processing step using the linear SVM to jointly
+adjust the prediction scores of each classifier on the three
+tasks. Then, we average these prediction scores with careful
+validation to get the final outputs. Our final average AUC on
+the whole test set is 0.8461, which ranks third place in the
+slow track of KDD Cup 2009.</div>
+<!--#include virtual="/nav-bar.txt"--><br>
+    <br>
+    <br>
+ <br>
+</body>
+</html>
