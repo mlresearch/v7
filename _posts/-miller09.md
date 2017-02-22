@@ -1,0 +1,30 @@
+---
+title: 'Predicting customer behaviour: The University of Melbourne''s KDD Cup report'
+abstract: We discuss the challenges of the 2009 KDD Cup along with our ideas and methodologies
+  for modelling the problem. The main stages included aggressive nonparametric feature
+  selection, careful treatment of categorical variables and tuning a gradient boosting
+  machine under Bernoulli loss with trees.
+pdf: "./miller09/miller09.pdf"
+layout: inproceedings
+key: miller09
+month: 0
+firstpage: 45
+lastpage: 55
+origpdf: http://jmlr.org/proceedings/papers/v7/miller09/miller09.pdf
+sections: 
+authors:
+- given: Hugh
+  family: Miller
+- given: Sandy
+  family: Clarke
+- given: Stephen
+  family: Lane
+- given: Andrew
+  family: Lonie
+- given: David
+  family: Lazaridis
+- given: Slave
+  family: Petrovski
+- given: Owen
+  family: Jones
+---

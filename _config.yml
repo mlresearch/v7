@@ -1,0 +1,44 @@
+# Site settings
+# Auto generated from v7.bib
+---
+booktitle: Proceedings of KDD-Cup 2009 Competition, June 28, Paris, France
+publisher: JMLR Workshop and Conference Proceedings
+logoright: kdd09-150.jpg
+supplementalurl: supplemental/JMLRWCP_V7_supplemental.html
+volume: 7
+year: '2009'
+shortname: KDD-Cup 2009
+sections:
+- name: supplemental
+  title: Supplemental
+- name: preface
+  title: Preface
+- name: default
+  title: Accepted Papers
+layout: proceedings
+key: DrorKDD2099
+month: 0
+abstract: 
+origpdf: 
+pdf: "./DrorKDD2099/DrorKDD2099.pdf"
+editors:
+- given: Gideon
+  family: Dror
+- given: Mar
+  family: Boull\'e
+- given: Isabelle
+  family: Guyon
+- given: Vincent
+  family: Lemaire
+- given: David
+  family: Vogel
+title: Proceedings of KDD-Cup 2009 Competition, June 28, Paris, France
+conference: Proceedings of KDD-Cup 2009 Competition, June 28, Paris, France
+email: ''
+description: Proceedings of KDD-Cup 2009 Competition, June 28, Paris, France
+url: http://proceedings.mlr.press
+baseurl: "/v7"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"

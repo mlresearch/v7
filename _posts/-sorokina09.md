@@ -1,0 +1,25 @@
+---
+title: "Application of Additive Groves Ensemble with Multiple Counts Feature Evaluation
+  to KDD Cup\x9209 Small Data Set"
+abstract: "This paper describes a field trial for a recently developed ensemble called
+  Additive Groves on KDD Cup\x9209 competition. Additive Groves were applied to three
+  tasks provided at the competition using the \x94small\x94 data set. On one of the
+  three tasks, appetency, we achieved the best result among participants who similarly
+  worked with the small dataset only. Postcompetition analysis showed that less successfull
+  result on another task, churn, was partially due to insufficient preprocessing of
+  nominal attributes. Code for Additive Groves is publicly available as a part of
+  TreeExtra package. Another part of this package provides an important preprocessing
+  technique also used for this competition entry, feature evaluation through bagging
+  with multiple counts."
+pdf: "./sorokina09/sorokina09.pdf"
+layout: inproceedings
+key: sorokina09
+month: 0
+firstpage: 101
+lastpage: 109
+origpdf: http://jmlr.org/proceedings/papers/v7/sorokina09/sorokina09.pdf
+sections: 
+authors:
+- given: Daria
+  family: Sorokina
+---
