@@ -19,12 +19,12 @@ sections:
 - name: default
   title: Accepted Papers
 layout: proceedings
-key: DrorKDD2099
+id: DrorKDD2099
 month: 0
 abstract: 
 origpdf: 
 pdf: "./DrorKDD2099/DrorKDD2099.pdf"
-editors:
+editor:
 - given: Gideon
   family: Dror
 - given: Mar
