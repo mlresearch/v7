@@ -1,7 +1,7 @@
 # Site settings
 # Auto generated from v7.bib
 ---
-booktitle: Proceedings of KDD-Cup 2009 Competition, June 28, Paris, France
+booktitle: Proceedings of KDD-Cup 2009 Competition
 publisher: JMLR Workshop and Conference Proceedings
 logoright: kdd09-150.jpg
 supplementalurl: supplemental/JMLRWCP_V7_supplemental.html
@@ -35,10 +35,10 @@ editor:
   family: Lemaire
 - given: David
   family: Vogel
-title: Proceedings of KDD-Cup 2009 Competition, June 28, Paris, France
-conference: Proceedings of KDD-Cup 2009 Competition, June 28, Paris, France
+title: Proceedings of KDD-Cup 2009 Competition
+conference: Proceedings of KDD-Cup 2009 Competition
 email: ''
-description: Proceedings of KDD-Cup 2009 Competition, June 28, Paris, France
+description: Proceedings of KDD-Cup 2009 Competition
 url: http://proceedings.mlr.press
 baseurl: "/v7"
 twitter_username: mlresearch
