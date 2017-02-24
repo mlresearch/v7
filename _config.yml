@@ -46,7 +46,7 @@ github:
   repository: v7
 conference:
   name: KDD-Cup 2009 Competition
-  url: 
+  url: http://www.kdd.org/kdd-cup/view/kdd-cup-2009
   location: New York, New York, USA
   dates:
   - 2009-06-28
