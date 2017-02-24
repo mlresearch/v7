@@ -1,6 +1,6 @@
 ---
 booktitle: Proceedings of KDD-Cup 2009 Competition
-publisher: JMLR Workshop and Conference Proceedings
+publisher: PMLR
 logoright: kdd09-150.jpg
 supplementalurl: supplemental/JMLRWCP_V7_supplemental.html
 volume: 7
@@ -34,7 +34,7 @@ editor:
   family: Vogel
 title: Proceedings of KDD-Cup 2009 Competition
 email: ''
-description: Proceedings of KDD-Cup 2009 Competition
+description: Proceedings of KDD-Cup 2009 Competition, New York, New York, USA
 url: http://proceedings.mlr.press
 baseurl: "/v7"
 twitter_username: mlresearch
@@ -45,9 +45,9 @@ github:
   edit: true
   repository: v7
 conference:
-  name: Proceedings of KDD-Cup 2009 Competition
+  name: KDD-Cup 2009 Competition
   url: 
-  location: 
+  location: New York, New York, USA
   dates:
   - 2009-06-28
 analytics:
