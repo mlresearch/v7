@@ -60,6 +60,8 @@ github:
   edit: true
   repository: v7
 bibtex_copy: true
+endnote_copy: true
+apa_copy: true
 email: ''
 conference:
   name: KDD-Cup 2009 Competition
