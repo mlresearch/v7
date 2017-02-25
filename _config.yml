@@ -21,6 +21,8 @@ series: Proceedings of Machine Learning Research
 id: DrorKDD2099
 month: 0
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Gideon
   family: Dror
@@ -32,7 +34,6 @@ editor:
   family: Lemaire
 - given: David
   family: Vogel
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of KDD-Cup 2009 Competition
     Held in New York, New York, USA on 28 June 2009
